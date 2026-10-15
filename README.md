@@ -1,4 +1,10 @@
-## Hi there 👋
+## hi
+
+i want to learn reverse-enginering, modding and be useful
+
+i have a wii u btw, and i love foss culture (if i can name it like that)
+
+mostly of my code is [free (as in freedom)](https://www.gnu.org/philosophy/free-sw.html). meow
 
 <!--
 **afraidofsomethin23/afraidofsomethin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
