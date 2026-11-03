@@ -25,52 +25,56 @@
     "streak"
   ],
   "hero": {
-    "greeting": "hi, I'm",
-    "name": "afraid of something",
-    "subtitle": "i do REALLY simple projects",
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
     "avatarShape": "soft",
     "chips": [
       {
-        "icon": "verified",
-        "label": "i use kde neon btw"
+        "icon": "location_on",
+        "label": "Earth"
       },
       {
-        "icon": "public",
-        "label": "donate.fsf.org"
+        "icon": "code",
+        "label": "TypeScript · Python"
       }
     ]
   },
   "about": {
-    "title": "about me",
+    "title": "About me",
     "items": [
       {
-        "icon": "sports_esports",
-        "label": "i own a wii u"
+        "icon": "person",
+        "label": "Developer and designer"
       },
       {
         "icon": "code",
-        "label": "i cant code :("
+        "label": "Mostly frontend"
       },
       {
-        "icon": "book_2",
-        "label": "i love design"
+        "icon": "palette",
+        "label": "Into Material Design"
       }
     ]
   },
   "stack": {
-    "title": "what are my stack",
+    "title": "Tech stack",
     "groups": [
       {
         "title": "Main",
         "items": [
           {
-            "icon": "brand:html5",
-            "label": "HTML/CSS/JS (like an asshole)"
+            "icon": "brand:typescript",
+            "label": "TypeScript"
           },
           {
-            "icon": "brand:gnubash",
-            "label": "maybe bash"
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
           }
         ]
       },
@@ -79,11 +83,15 @@
         "items": [
           {
             "icon": "brand:git",
-            "label": "git (awful)"
+            "label": "Git"
           },
           {
-            "icon": "brand:docker",
-            "label": "docker (awful too)"
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
           }
         ]
       }
