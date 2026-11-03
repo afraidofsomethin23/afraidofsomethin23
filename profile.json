@@ -25,56 +25,52 @@
     "streak"
   ],
   "hero": {
-    "greeting": "Hi, I'm",
-    "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "greeting": "hi, I'm",
+    "name": "afraid of something",
+    "subtitle": "i do REALLY simple projects",
     "typing": true,
     "avatarShape": "soft",
     "chips": [
       {
-        "icon": "location_on",
-        "label": "Earth"
+        "icon": "verified",
+        "label": "i use kde neon btw"
       },
       {
-        "icon": "code",
-        "label": "TypeScript · Python"
+        "icon": "public",
+        "label": "donate.fsf.org"
       }
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "about me",
     "items": [
       {
-        "icon": "person",
-        "label": "Developer and designer"
+        "icon": "sports_esports",
+        "label": "i own a wii u"
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "i cant code :("
       },
       {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "icon": "book_2",
+        "label": "i love design"
       }
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "what are my stack",
     "groups": [
       {
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
+            "icon": "brand:html5",
+            "label": "HTML/CSS/JS (like an asshole)"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:gnubash",
+            "label": "maybe bash"
           }
         ]
       },
@@ -83,15 +79,11 @@
         "items": [
           {
             "icon": "brand:git",
-            "label": "Git"
+            "label": "git (awful)"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:docker",
+            "label": "docker (awful too)"
           }
         ]
       }
