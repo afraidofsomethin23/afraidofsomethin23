@@ -1,8 +1,8 @@
 {
- "key": "e406fdb9",
+ "key": "f26e29d5",
  "stars": 0,
  "contributions": 9,
- "repos": 2,
+ "repos": 1,
  "followers": 0,
  "languages": [],
  "days": [
@@ -107,15 +107,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "mii-creator",
-   "url": "https://github.com/afraidofsomethin23/mii-creator",
-   "text": "A public instance of Kat21's Mii Creator web app that doesn't require login. Not affiliated with Kat21.",
-   "fork": true,
-   "stars": 0,
-   "language": "TypeScript",
    "topics": []
   }
  ]
